@@ -9,4 +9,4 @@ echo "Home direcory of the user: $Home"
 echo "PID of the script: $$"
 sleep 100 &
 echo "PID of recently executed Background process id: $!"
-echo "all args passed to script: $*"
+echo "all args passed to script  list: $*"
